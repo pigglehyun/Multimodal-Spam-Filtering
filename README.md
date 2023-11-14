@@ -48,7 +48,8 @@
 
 # 📺 소개 및 시연 영상
 https://youtu.be/ZSiX3GsChDY?si=4Tinkjop-bkiN2Vv
-[![Video Label](http://img.youtube.com/vi/4Tinkjop-bkiN2Vv/0.jpg)](https://youtu.be/4Tinkjop-bkiN2Vv)
+
+[![spam_filtering](http://img.youtube.com/vi/ZSiX3GsChDY/0.jpg)](https://www.youtube.com/watch?v=ZSiX3GsChDY)
 
 <br>
 
